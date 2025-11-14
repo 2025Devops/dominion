@@ -1,1 +1,3 @@
-my app
+myapp
+webapp
+tdapp
